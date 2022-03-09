@@ -1,0 +1,3 @@
+Hacer un código que nos muestre los números del 0 al 10.
+Vamos a complicar los ejercicios. Realizar un ejercicio en el cual se visualice una cuenta de 1 a 10, y a la vez, una cuenta inversa de 10 a 1.
+Realizar un ejercicio en el cual se visualicen los números primos del 1 al 50. (a partir del 11)
